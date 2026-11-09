@@ -1,0 +1,15 @@
+# dataset
+src/data/
+
+# macOS files 
+.DS_Store
+
+# local editor settings
+.vscode/
+
+# python cache, venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
